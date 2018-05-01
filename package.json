@@ -1,0 +1,18 @@
+{
+  "name": "image-select",
+  "version": "1.9.0",
+  "description": "Extension of Chosen providing image support for single and multi select HTML tags",
+  "main": "src/ImageSelect.jquery.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benmaurer/Image-Select.git"
+  },
+  "author": "websemantics",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benmaurer/Image-Select/issues"
+  }
+}
